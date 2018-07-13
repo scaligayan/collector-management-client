@@ -1,5 +1,3 @@
-# collector-management-client
-Collector Management Script
 Collector Management Script
 ============
 
@@ -178,4 +176,3 @@ $ python sumo_mgmt.py -h
 ```
 $ python sumo_mgmt.py -url https://api.sumologic.com/api/v1/ -accessid [YOUR ACCESS ID] -accesskey [YOUR ACCESS KEY] -filter version=A -upgrade B
 ```
-
